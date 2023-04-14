@@ -1,7 +1,6 @@
 # Anti-Money Laundering 
-This is part of competition organized by IMI UofT Mississauga along with Scotiabank. 
 
-The goal of the competition: To identify and classify customers with the concern of AML with ratings. 
+Identify and classify customers with fraudulent behaviour. Reduce content and activity exploitation.
 
 # Dataset 
 
