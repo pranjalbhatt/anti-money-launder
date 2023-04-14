@@ -1,6 +1,6 @@
 # Anti-Money Laundering 
 
-Identify and classify customers with fraudulent behaviour. Reduce content and activity exploitation.
+Identify and classify customers with fraudulent behaviour. Identify nefarious activity and content exploitation.
 
 # Dataset 
 
